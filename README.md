@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Social é um site que permite acessar varias outras redes sociais no mesmo lugar.
 
-- [Visite o projeto online](https://sweydmanaf.github.io/projeto-cordel/)
+- [Visite o projeto online](https://sweydmanaf.github.io/projeto-social/)
 
 ## :memo: Licença
 [Visitar o repósitorio principal.](https://github.com/SweydManaf/curso-html-css-cev) <br>
